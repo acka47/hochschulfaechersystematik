@@ -16,7 +16,7 @@
   schema:isBasedOn <http://bartoc.org/node/18919> ;
   skos:hasTopConcept  <n0>, <n1>, <n2>, <n3>, <n4>, <n5>, <n7>, <n8>, <n9>, <test> .
 
-<test> a skos:ConceptScheme ;
+<test> a skos:Concept ;
   skos:prefLabel "Testung"@de, "testing"@en, "Тестування"@uk ;
   skos:notation "T" ;
   skos:topConceptOf <scheme> .
